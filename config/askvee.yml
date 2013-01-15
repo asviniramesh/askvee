@@ -1,0 +1,17 @@
+development:
+  api:
+    host: "http://localhost:3000"
+  web:
+    host: "http://localhost:3001"
+
+test:
+  api:
+    host: "http://localhost:3001"
+  web:
+    host: "http://localhost:3000"
+
+production:
+  api:
+    host: "http://api-askvee.heroku.com"
+  web:
+    host: "http://qa-askvee.heroku.com"

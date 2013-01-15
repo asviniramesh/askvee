@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  room_booking_id: 1
+  type_of_card: MyString
+  card_number: 1
+  expiry_date: 2012-05-05
+  cvv_number: 1
+  name_as_on_card: MyString
+
+two:
+  room_booking_id: 1
+  type_of_card: MyString
+  card_number: 1
+  expiry_date: 2012-05-05
+  cvv_number: 1
+  name_as_on_card: MyString

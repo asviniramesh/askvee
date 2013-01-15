@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+#~ one:
+  #~ room_booking_id: 1
+  #~ sender_id: 1
+  #~ receiver_id: 1
+  #~ role_type: MyString
+  #~ rating: 1
+  #~ description: MyText
+
+#~ two:
+  #~ room_booking_id: 1
+  #~ sender_id: 1
+  #~ receiver_id: 1
+  #~ role_type: MyString
+  #~ rating: 1
+  #~ description: MyText

@@ -1,0 +1,2 @@
+class TourBooking < RoomBooking
+end

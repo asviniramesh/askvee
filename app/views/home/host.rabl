@@ -1,0 +1,2 @@
+object @host
+attributes :email

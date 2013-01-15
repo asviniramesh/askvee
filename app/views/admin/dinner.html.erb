@@ -1,0 +1,11 @@
+<p>Hi <%=@email %><p>
+<%@true="YES"%>
+<%@false="NO"%>
+<p>New Post has been added for askvee site from <%=@user_name%> with following details</p>
+
+<p>Category Name: <%=@category_name%></p>
+<p>Description:<%=@description%></p>
+<p>Dinner Available:<%if @is_available=="0"%><%=@false%><%else%><%=@true%><%end%>
+<p>Dinner Name:<% @name.each do |name|%><%=name%></br><%end%>
+<p>Price:<%=@price%></p>
+

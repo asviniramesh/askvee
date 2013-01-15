@@ -1,0 +1,2 @@
+class LunchBooking < RoomBooking
+end

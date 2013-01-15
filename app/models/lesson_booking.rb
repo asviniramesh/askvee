@@ -1,0 +1,2 @@
+class LessonBooking < RoomBooking
+end

@@ -1,0 +1,2 @@
+object @guest
+attributes :email

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: Annai Illam
+  address: chennai
+  room_type: single
+  description: neat
+
+#~ two:
+  #~ host_id: 1
+  #~ name: MyString
+  #~ address: MyString
+  #~ room_type: MyString
+  #~ description: MyText
+  #~ country_id: 1

@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: saidapet
+  area_code: 123
+
+two:
+  name: M
+  area_code: 1
+

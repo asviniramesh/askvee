@@ -1,0 +1,10 @@
+sudo su
+
+su postgres
+
+postgres@vagrant-ubuntu-precise:/app$ createdb caremonkey
+postgres@vagrant-ubuntu-precise:/app$ createdb caremonkey_test
+postgres@vagrant-ubuntu-precise:/app$ createdb caremonkey_production
+
+
+echo "ALTER ROLE postgres ENCRYPTED PASSWORD 'root'" | psql

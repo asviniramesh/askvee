@@ -1,0 +1,1 @@
+attributes :id, :check_in, :accomodation_id, :is_accepted, :is_unavailable
